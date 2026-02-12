@@ -1,5 +1,11 @@
 # Ruta NPCs
 
+## Disclaimer
+
+~~~
+Este documento se ha hecho con la intencion de agilizar el proceso de farmeo de un video del canal ![PaludaGameplays](https://www.youtube.com/watch?v=UZlUTX15irA). Recomiendo encarecidamente verlo para conseguir entender en profundidad la guia.
+~~~
+
 ## Regiones
 
 ~~~
@@ -10,9 +16,13 @@ Shinnoh. (Obligatoria)
 
 ## Pokemons
 
-![Mamoswine](Mamoswine.jpg)
+Ambos necesitan los movimientos carambano y en caso del Mamoswine Terremoto tambien es necesario.
 
-![Cloyster](cloyster.jpg)
+Los objetos son Dados Trucados para Mamoswine y Cinta Elegida para Cloyster.
+
+![Mamoswine](Pokemons/Mamoswine.jpg)
+
+![Cloyster](Pokemons/cloyster.jpg)
 
 ~~~
 !Disclaimer Se puede hacer con 2 copias exactas del mismo pokemon, pero es recomendable tener un Cloyster y un Mamoswine
