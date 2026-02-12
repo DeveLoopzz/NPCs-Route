@@ -3,7 +3,7 @@
 ## Disclaimer
 
 
-Este documento se ha hecho con la intencion de agilizar el proceso de farmeo de un video del canal ![PaludaGameplays](https://www.youtube.com/watch?v=UZlUTX15irA). Recomiendo encarecidamente verlo para conseguir entender en profundidad la guia.
+Este documento se ha hecho con la intencion de agilizar el proceso de farmeo de un video del canal [PaludaGameplays](https://www.youtube.com/watch?v=UZlUTX15irA). Recomiendo encarecidamente verlo para conseguir entender en profundidad la guia.
 
 ## Regiones
 
