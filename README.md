@@ -3,7 +3,7 @@
 ## Disclaimer
 
 
-Este documento se ha hecho con la intencion de agilizar el proceso de farmeo de un video del canal ![PaludaGameplays](https://www.youtube.com/watch?v=UZlUTX15irA). Recomiendo encarecidamente verlo para conseguir entender en profundidad la guia.
+Este documento se ha hecho con la intencion de agilizar el proceso de farmeo de un video del canal [PaludaGameplays](https://www.youtube.com/watch?v=UZlUTX15irA). Recomiendo encarecidamente verlo para conseguir entender en profundidad la guia.
 
 ## Regiones
 
@@ -82,6 +82,14 @@ Volvemos a Rocavelo y salimos por la izquierda a ruta 215, peleamos contra los 2
 
 ![ruta 215](Shinnoh/Ruta_215.png)
 
+Volamos a ciudad Corazon
+
+![Ciudad Corazon](Shinnoh/Ciudad_Corazón_mapa.png)
+
+Salimos por la ruta de abajo
+
+![Ruta 212](Shinnoh/Ruta_212_Pt.png)
+
 Volamos a Pueblo Sosiego
 
 ![Pueblo sosiego](Shinnoh/Pueblo_Sosiego_mapa.png)
@@ -120,7 +128,7 @@ Volamos a pueblo caelestis.
 
 Salimos hacia la derecha en ruta 210, USAMOS DESPEJAR y peleamos contra los siguientes npc
 
-![Ruta 210](Shinnoh/Ruta_210.png)
+![Ruta 210](Shinnoh/Ruta_210v2.png)
 
 Volamos a Ciudad Puntaneva
 
